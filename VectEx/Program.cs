@@ -14,7 +14,7 @@ namespace VectEx
              * 3 - pedirá o quarto do aluno
              * 4 - colocará em ordem de quarto cada aluno
              --------------------------------------------------------*/
-
+            // isto é um teste
 
             Estudante[] vect = new Estudante[10];
 
