@@ -11,7 +11,7 @@ namespace VectEx
              * 0 - pedirá a quantidade de alunos que irá fazer o check up
              * 1 - pedirá o nome do aluno
              * 2 - pedirá o e-mail do aluno
-             * 3 - perirá o quarto do aluno
+             * 3 - pedirá o quarto do aluno
              * 4 - colocará em ordem de quarto cada aluno
              --------------------------------------------------------*/
 
